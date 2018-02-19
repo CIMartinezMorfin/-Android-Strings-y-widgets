@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App3</string>
+    <string name="checkBox1">rojo</string>
+    <string name="checkBox2">verde</string>
+    <string name="checkBox3">azul</string>
+
+    <string-array name="lista_uno">
+        <item>Elemento uno</item>
+        <item>Elemento dos</item>
+        <item>Elemento tres</item>
+    </string-array>
+    </resources>

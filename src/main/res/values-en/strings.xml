@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App3</string>
+    <string name="checkBox1">red</string>
+    <string name="checkBox2">green</string>
+    <string name="checkBox3">blue</string>
+</resources>
